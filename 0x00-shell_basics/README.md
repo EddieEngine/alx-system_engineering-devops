@@ -1,2 +1,3 @@
 - script 4-listmorefiles displays the contents of current directory, including hidden files, using the long format
-- script 5-listfilesdigitonly displays the current directory contents, with user and group IDs displayed numerically, using the long format. Hidden files are also shown.
+- script 5-listfilesdigitonly displays the current directory contents, with user and group IDs displayed numerically, using the long format. Hidden files are also shown
+- script 6-firstdirectory creates a directory named `my_fist_directory` in `/tmp/`
