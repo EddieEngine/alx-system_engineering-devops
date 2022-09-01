@@ -7,3 +7,4 @@
 - script 10-back to navigate to the previous directory
 - script 11-lists lists all files in current dir, parent dir and `/boot` using the options `-al`
 - script 12-file_type prints the type of file named `iamafile` in `/tmp/`
+- script 13-symbolic_link creates symbolic link to `/bin/ls` named `__ls__`
