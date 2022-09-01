@@ -1,6 +1,6 @@
 # 0x00 Shell, basics
 
-This project demonstrate the following onjectives:
+This project demonstrate the following objectives:
 - What is the shell?
 - Navigating the filesystem
 - Manipulating files using cp, mv, rm, mkdir commands
