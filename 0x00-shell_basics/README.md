@@ -12,3 +12,4 @@
 - script 100-lets_move moves all files beginning with an uppercase letter to the directory `/tmp/u`
 - script 101-clean_emacs deletes all files in the current working dir that ends with `~`
 - script 102-tree creates the directories `welcome/`, `welcome/to/` and `welcome/to/school`
+- script 103-commas lists all the files and directories of the current directory, separated by commas
