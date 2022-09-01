@@ -5,3 +5,4 @@
 - script 8-firstdelete to delete file `betty` in `/tmp/my_first_directory`
 - script 9-firstdirdeletion deletes `my_first_directory` from `/tmp/`
 - script 10-back to navigate to the previous directory
+- script 11-lists lists all files in current dir, parent dir and `/boot` using the options `-al`
