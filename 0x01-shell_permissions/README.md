@@ -9,3 +9,4 @@
 - `8-James_Bond` sets the permission to the file `hello` as follows: owner (no permission at all), group (no permission at all) and other users (all the permissions)
 - `9-John_Doe` sets the mode of the file `hello` to `-rwxr-x-wx`
 - `10-mirror_permissions` sets the mode of the file `hello` the same as `olleh`'s mode
+- `11-directories_permissions` adds execution permission to all subdirectories of the current directory for the owner, the group owner and all other users while regular files ar unchanged.
