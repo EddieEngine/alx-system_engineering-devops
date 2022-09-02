@@ -1,16 +1,16 @@
-- script 4-listmorefiles displays the contents of current directory, including hidden files, using the long format
-- script 5-listfilesdigitonly displays the current directory contents, with user and group IDs displayed numerically, using the long format. Hidden files are also shown
-- script 6-firstdirectory creates a directory named `my_fist_directory` in `/tmp/`
-- script 7-movethatfile moves the file `betty` from`/tmp/` to `/tmp/my_first_directory`
-- script 8-firstdelete to delete file `betty` in `/tmp/my_first_directory`
-- script 9-firstdirdeletion deletes `my_first_directory` from `/tmp/`
-- script 10-back to navigate to the previous directory
-- script 11-lists lists all files in current dir, parent dir and `/boot` using the options `-al`
-- script 12-file_type prints the type of file named `iamafile` in `/tmp/`
-- script 13-symbolic_link creates symbolic link to `/bin/ls` named `__ls__
-- script 14-copy_html copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory`
-- script 100-lets_move moves all files beginning with an uppercase letter to the directory `/tmp/u`
-- script 101-clean_emacs deletes all files in the current working dir that ends with `~`
-- script 102-tree creates the directories `welcome/`, `welcome/to/` and `welcome/to/school`
-- script 103-commas lists all the files and directories of the current directory, separated by commas
-- magic file school.mgc that can be used with command `file` to detect `School` data files
+- `4-listmorefiles` displays the contents of current directory, including hidden files, using the long format
+- `5-listfilesdigitonly` displays the current directory contents, with user and group IDs displayed numerically, using the long format. Hidden files are also shown
+- `6-firstdirectory` creates a directory named `my_fist_directory` in `/tmp/`
+- `7-movethatfile` moves the file `betty` from`/tmp/` to `/tmp/my_first_directory`
+- `8-firstdelete` to delete file `betty` in `/tmp/my_first_directory`
+- `9-firstdirdeletion` deletes `my_first_directory` from `/tmp/`
+- `10-back` to navigate to the previous directory
+- `11-lists` lists all files in current dir, parent dir and `/boot` using the options `-al`
+- `12-file_type` prints the type of file named `iamafile` in `/tmp/`
+- `13-symbolic_link` creates symbolic link to `/bin/ls` named `__ls__
+- `14-copy_html` copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory`
+- `100-lets_move` moves all files beginning with an uppercase letter to the directory `/tmp/u`
+- `101-clean_emacs` deletes all files in the current working dir that ends with `~`
+- `102-tree` creates the directories `welcome/`, `welcome/to/` and `welcome/to/school`
+- `103-commas` lists all the files and directories of the current directory, separated by commas
+- magic file `school.mgc` that can be used with command `file` to detect `School` data files
