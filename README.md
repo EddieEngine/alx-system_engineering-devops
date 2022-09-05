@@ -7,7 +7,7 @@ This project demonstrate the following objectives:
 - Use of wildcards
 - Using the type, which, help, man commands for help
 
-# 0x00 Shell, Permissions
+# 0x01 Shell, Permissions
 
 ### Learning Objectives
 - What do the commands `chmod`, `sudo`, `su`, `chown`, `chgrp` do
