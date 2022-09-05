@@ -17,3 +17,12 @@ This project demonstrate the following objectives:
 - Why can’t a normal user `chown` a file
 - How to run a command with root privileges
 - How to change user ID or become superuser
+
+# 0x02 Shell, I/O Redirections and Filters
+
+### Learning Objectives
+- What do the commands `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr` do
+- How to redirect standard output to a file
+- How to get standard input from a file instead of the keyboard
+- How to send the output from one program to the input of another program
+- How to combine commands and filters with redirections
