@@ -2,4 +2,5 @@
 - `1-confused_smiley` displays  confused smiley
 - `2-hellofile` displays the content of `/etc/passwd` file
 - `3-twofiles` displays the contents of two files
-- `4-lastlines` display the last 10 lines of `/etc/passwd`
+- `4-lastlines` displays the last 10 lines of `/etc/passwd
+- `5-firstlines` displays the first 10 lines of `/etc/passwd`
